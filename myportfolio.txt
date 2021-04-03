@@ -1,0 +1,2 @@
+Basic details
+like name,education etc
